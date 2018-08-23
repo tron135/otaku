@@ -1,0 +1,42 @@
+body{
+	background: #000000;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: url(https://pre00.deviantart.net/c5fb/th/pre/f/2014/258/5/f/otaku_wallpaper_by_natashafaucon-d7zaksy.png);
+	background-size: auto;
+	width: 100%;
+	background-position: center;
+	font-family: 'Mina', sans-serif;
+}
+
+html{
+	height: 80%;
+}
+
+hr{
+	width: 600px;
+}
+
+#content h1{
+	color: #00ff00;
+	font-family: 'Mina', sans-serif;
+	font-weight: 700px;
+	font-size: 5em;
+	padding-top: 15%;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+#content h3{
+	color: #00ff00;
+	font-family: 'Mina', sans-serif;
+	text-shadow: 0px 8px 80px #696969;
+}
+
+#content{
+	text-align: center;
+	padding-top: 15%;
+	color: #00ff00;
+	font-family: 'Mina', sans-serif;
+	text-shadow: 0px 3px 80px #696969;
+}
